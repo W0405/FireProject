@@ -9,4 +9,10 @@ namespace Ron.DistributedCacheDemo.BLL
     {
         public DateTimeOffset UtcNow => DateTime.Now;
     }
+
+    public class LocalTest
+    {
+        public void Tes()
+        { }
+    }
 }
